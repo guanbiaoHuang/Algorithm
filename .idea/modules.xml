@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/11-maxArea/11-maxArea.iml" filepath="$PROJECT_DIR$/11-maxArea/11-maxArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-lengthOfLongestSubstring/3-lengthOfLongestSubstring.iml" filepath="$PROJECT_DIR$/3-lengthOfLongestSubstring/3-lengthOfLongestSubstring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-findMedianSortedArrays/4-findMedianSortedArrays.iml" filepath="$PROJECT_DIR$/4-findMedianSortedArrays/4-findMedianSortedArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-longestPalindrome/5-longestPalindrome.iml" filepath="$PROJECT_DIR$/5-longestPalindrome/5-longestPalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-myAtoi/8-myAtoi.iml" filepath="$PROJECT_DIR$/8-myAtoi/8-myAtoi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Algorithm.iml" filepath="$PROJECT_DIR$/.idea/Algorithm.iml" />
+    </modules>
+  </component>
+</project>
