@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/11-maxArea/11-maxArea.iml" filepath="$PROJECT_DIR$/11-maxArea/11-maxArea.iml" />
       <module fileurl="file://$PROJECT_DIR$/12-intToRoman/12-intToRoman.iml" filepath="$PROJECT_DIR$/12-intToRoman/12-intToRoman.iml" />
       <module fileurl="file://$PROJECT_DIR$/13-romanToInt/13-romanToInt.iml" filepath="$PROJECT_DIR$/13-romanToInt/13-romanToInt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-longestCommonPrefix/14-longestCommonPrefix.iml" filepath="$PROJECT_DIR$/14-longestCommonPrefix/14-longestCommonPrefix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15-threeSum/15-threeSum.iml" filepath="$PROJECT_DIR$/15-threeSum/15-threeSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/3-lengthOfLongestSubstring/3-lengthOfLongestSubstring.iml" filepath="$PROJECT_DIR$/3-lengthOfLongestSubstring/3-lengthOfLongestSubstring.iml" />
       <module fileurl="file://$PROJECT_DIR$/4-findMedianSortedArrays/4-findMedianSortedArrays.iml" filepath="$PROJECT_DIR$/4-findMedianSortedArrays/4-findMedianSortedArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/5-longestPalindrome/5-longestPalindrome.iml" filepath="$PROJECT_DIR$/5-longestPalindrome/5-longestPalindrome.iml" />

@@ -10,8 +10,10 @@ public class Solution {
     }
 
     private int myAtoi(String str) {
-        str = str.trim();//效率比遍历低，但是方便，左右清空
-        if (str.length() == 0) {//判断清空后的串是否为空
+        //效率比遍历低，但是方便，左右清空
+        str = str.trim();
+        //判断清空后的串是否为空
+        if (str.length() == 0) {
             return 0;
         } else {
             char[] arr = str.toCharArray();
